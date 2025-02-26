@@ -1,0 +1,13 @@
+.card_actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_content{
+    height: 270px;
+    color: black;
+}
+
+p{
+    font-size: 15px;
+}

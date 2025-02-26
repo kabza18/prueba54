@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "28dayslater";
+    src: url("../../assets/fonts/28_Days_Later.ttf") format("truetype");
+}
+
+.filter_button-text{
+    color: black;
+    font-family: "28dayslater", "Times New Roman", serif;
+    font-size: 22px;
+
+    &:hover{
+        color: rgb(122, 122, 122);
+    }
+}
+.option_list{
+    display: block;
+}
+.option_list_link{
+    font-size: 20px;
+}

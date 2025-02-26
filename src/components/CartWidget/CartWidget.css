@@ -1,0 +1,17 @@
+.cart_container{
+    display:flex;
+    color:blck;
+}
+
+.number{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    color:white;
+    position:relative;
+    right:12px;
+    bottom: 10px;
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    background-color: red;
+}

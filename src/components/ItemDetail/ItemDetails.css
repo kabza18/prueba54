@@ -1,0 +1,10 @@
+.cantidad_styles {
+    display: flex;
+    align-items: center;
+}
+
+.num {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 3px;
+}

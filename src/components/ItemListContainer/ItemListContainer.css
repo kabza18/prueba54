@@ -1,0 +1,9 @@
+.cards_styles{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card_style{
+    margin-bottom: 2em;
+}

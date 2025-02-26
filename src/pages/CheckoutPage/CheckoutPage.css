@@ -1,0 +1,87 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: auto;
+}
+
+.shop_page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.FormContainer {
+    max-width: 700px;
+    min-height: 550px;
+    width: 50%;
+    background-color: white;
+    border: solid rgb(136, 136, 228) 2px;
+    border-radius: 50px;
+}
+
+.formContainer {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+}
+
+.allDiv {
+    margin: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.purchase_detail_container {
+    display:inline-block;
+    background-color: white;
+    border: solid rgb(136, 136, 228) 2px;
+    border-radius: 50px;
+    min-height: 150px;
+    min-width: 500px;
+}
+
+.purchase_detail {
+    display:inline-block;
+    align-items: flex-end;
+    height: auto;
+}
+.list_items {
+    margin-bottom: 10px;
+}
+.division_total{
+    display:flex;
+    justify-content: center;
+    height: 100%;
+    align-items: end;
+}
+.total {
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10px;
+}
+
+.center {
+    border-radius: 10px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+.circular_progress{
+    width:100%;
+    border-radius: 10px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}

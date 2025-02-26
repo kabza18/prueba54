@@ -1,0 +1,8 @@
+.detail_page{
+    display:block;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+}

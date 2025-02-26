@@ -1,0 +1,28 @@
+.welcome_message {
+    display: flex;
+    align-items: left;
+    font-family: "Calibri", "Times New Roman", serif;
+    color: blanchedalmond;
+    background-color: black;
+    margin: 0px;
+}
+
+.header_container {
+    font-family: "Times New Roman", serif;
+    max-height: 100px;
+    width: 100%;
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.banner img {
+    width: 65%;
+    height: auto;
+}
