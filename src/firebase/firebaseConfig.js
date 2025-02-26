@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_API_KEY,
+    apiKey: "AIzaSyDP8zecOT3uPKgc-Ys9_orbbL6h1-hLEhs",
     authDomain: "true-eye-383521.firebaseapp.com",
     projectId: "true-eye-383521",
     storageBucket: "true-eye-383521.appspot.com",
